@@ -28,10 +28,10 @@ If you find this file useful in your research, please consider citing:
 
 ```bibtex
 @article{long2022clustering,
-  title={Clustering Based on Local Density Peaks and Graph Cut},
-  author={Long, Zhiguo and Gao, Yang and Meng, Hua and Yao, Yuqin and Li, Tianrui},
-  journal={Information Sciences},
-  year={2022},
-  publisher={Elsevier}
+  title = {Clustering based on local density peaks and graph cut},
+  journal = {Information Sciences},
+  volume = {600},
+  pages = {263-286},
+  year = {2022}
 }
 ```
